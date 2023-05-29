@@ -428,4 +428,6 @@ export default App;
 ```
 
 ## OUTPUT:
-![resize (1)](https://github.com/Aashima02/PORTFOLIO-USING-REACT/assets/93427086/cf5c200b-d3f1-4e37-a339-4f784ac07550)
+![rew](https://github.com/Aashima02/PORTFOLIO-USING-REACT/assets/93427086/7adbaa1f-eddb-482d-9151-05dff735a493)
+
+
