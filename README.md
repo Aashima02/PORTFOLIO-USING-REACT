@@ -428,6 +428,22 @@ export default App;
 ```
 
 ## OUTPUT:
-![rew](https://github.com/Aashima02/PORTFOLIO-USING-REACT/assets/93427086/7adbaa1f-eddb-482d-9151-05dff735a493)
+
+![1](https://github.com/Aashima02/PORTFOLIO-USING-REACT/assets/93427086/68f30113-8421-435f-b50f-5fda1d1ef36f)
+
+
+
+![2](https://github.com/Aashima02/PORTFOLIO-USING-REACT/assets/93427086/51ccb886-3238-4fb1-80a8-665c6f2b1e06)
+
+
+
+![3](https://github.com/Aashima02/PORTFOLIO-USING-REACT/assets/93427086/cb5d61b7-967e-4e59-9c2c-69d988a4fc04)
+
+
+
+
+![4](https://github.com/Aashima02/PORTFOLIO-USING-REACT/assets/93427086/1cfb9707-9a06-4b00-8a20-85f43b324910)
+
+
 
 
